@@ -1,10 +1,5 @@
 <h1 align="center"> Hi, I'm Ravi Prakash 👋 </h1>
 <h3 align="center">✨ UI/UX Developer ✨</h3>
-<!--
-**raviprakash11/raviprakash11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 - 🔭 I’m currently working on JavaScript and AI.
 - 🌱 I’m currently learning JavaScript, Node JS and AI.
