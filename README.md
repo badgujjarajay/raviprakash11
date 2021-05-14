@@ -15,6 +15,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviprakash11&layout=compact&theme=tokyonight&count_private=true" alt="languages" height="165">
 
 
-⭐️ From [raviprakash11](https://github.com/raviprakash11)
+❤ From [Ravi Prakash](https://github.com/raviprakash11)
 
-
+Thanks for visiting.👀 
