@@ -17,4 +17,6 @@
 
 ❤ From [Ravi Prakash](https://github.com/raviprakash11)
 
+<center>
 Thanks for visiting.👀 
+</center>
