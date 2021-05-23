@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Application Development with AI.
 - 🤔 I’m looking for help with JavaScript and AI.
 - 💬 Ask me about Application Development, UX/UI, AI, Maths.
-- 📫 How to reach me: 
+- 📫 How to reach me: ⤵
 
 
 <p align="center">
