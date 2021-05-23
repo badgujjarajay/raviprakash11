@@ -1,6 +1,8 @@
 <h1 align="center"> Hi, I'm Ravi Prakash 👋 </h1>
 <h3 align="center">✨ UI/UX Developer ✨</h3>
 
+![raviprakash11](https://komarev.com/ghpvc/?username=raviprakash11&label=Profile+Views&color=blue&style=flat)
+
 - 🔭 I’m currently working on JavaScript and AI.
 - 🌱 I’m currently learning JavaScript, Node JS and AI.
 - 👯 I’m looking to collaborate on Application Development with AI.
@@ -17,4 +19,4 @@
 
 ❤ From [Ravi Prakash](https://github.com/raviprakash11)
 <br>
-Thanks for visiting.👀
+<h1 align="center">Thanks for visiting.👀</h1>
