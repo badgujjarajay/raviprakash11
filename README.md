@@ -14,7 +14,7 @@
 	</a>
 	<span>  </span>
 	<a href="https://www.linkedin.com/in/raviprakash11/">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raviprakash11/" />
+		<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raviprakash11/" />
 	</a>
 </p>
 
