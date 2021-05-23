@@ -10,9 +10,9 @@
 
 <p align="center">
 	<a href="mailto:ravi1prakash8@gmail.com">
-		<img alt="Send Mail" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:ravi1prakash8@gmail.com" />
+		<img alt="Send Mail" src="https://img.shields.io/badge/-Send-Mail-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:ravi1prakash8@gmail.com" />
 	</a>
-	<span> * </span>
+	<span>  </span>
 	<a href="https://www.linkedin.com/in/raviprakash11/">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raviprakash11/" />
 	</a>
