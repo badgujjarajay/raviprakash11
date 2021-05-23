@@ -8,15 +8,17 @@
 - 💬 Ask me about Application Development, UX/UI, AI, Maths.
 - 📫 How to reach me: 
 
+
 <p align="center">
 	<a href="mailto:ravi1prakash8@gmail.com">
-		<img alt="Send Mail" src="https://img.shields.io/badge/-Send-Mail-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:ravi1prakash8@gmail.com" />
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:ravi1prakash8@gmail.com" />
 	</a>
-	<span>  </span>
-	<a href="https://www.linkedin.com/in/raviprakash11/">
-		<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raviprakash11/" />
+	<span> | </span>
+	<a href="https://www.linkedin.com/in/appinha/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raviprakash11/" />
 	</a>
 </p>
+
 
 ### 💻 Open Source Work Stats
 <img src="https://github-readme-stats.vercel.app/api?username=raviprakash11&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;
