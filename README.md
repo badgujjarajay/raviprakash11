@@ -9,15 +9,15 @@
 - 📫 How to reach me: 
 
 
-<h3 align="center">
+<p align="center">
 	<a href="mailto:ravi1prakash8@gmail.com">
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:ravi1prakash8@gmail.com" />
 	</a>
-	<span> | </span>
+	<span>  </span>
 	<a href="https://www.linkedin.com/in/appinha/">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raviprakash11/" />
 	</a>
-</h3>
+</p>
 
 
 ### 💻 Open Source Work Stats
