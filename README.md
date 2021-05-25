@@ -37,5 +37,5 @@
 	Show some ❤️ by starring my repositories!
 </h4>
 <h3 align="center">
-  Thanks for visiting.👀
+  Thanks for visiting.
 </h3>
