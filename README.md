@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Ravi Prakash 👋 </h1>
-<h3 align="center">✨ UI/UX Developer ✨</h3>
+<h3 align="center">✨ Application Developer ✨</h3>
 
 - 🔭 I’m currently working on JavaScript and AI.
 - 🌱 I’m currently learning JavaScript, Node JS and AI.
